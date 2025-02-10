@@ -1,13 +1,13 @@
 # *Viagem dos Sonhos - Página Web Responsiva* 🌍✈️
 
-Este projeto acadêmico visa a criação de uma página web responsiva para promover destinos de viagem, com foco em design semântico e adaptável a diferentes tamanhos de tela. O projeto segue as melhores práticas de desenvolvimento web e utiliza HTML5 e CSS3 para garantir uma experiência visual agradável em qualquer dispositivo.
+Este projeto acadêmico visa a criação de uma página web responsiva para promover destinos de viagem, com foco em design semântico e adaptável a diferentes tamanhos de tela. O projeto segue as melhores práticas de desenvolvimento web e utiliza HTML e CSS para garantir uma experiência visual agradável em qualquer dispositivo.
 
 -🚀 Objetivo
 Criar uma página de destino que:
 
 Exiba um layout bonito e funcional.
 Se adapte a diferentes tamanhos de tela (responsividade).
-Utilize tags semânticas de HTML5 para uma estrutura clara e organizada.
+Utilize tags semânticas de HTML para uma estrutura clara e organizada.
 Proporcione uma experiência de navegação agradável e intuitiva.
 
 -🔧 Tecnologias Utilizadas
