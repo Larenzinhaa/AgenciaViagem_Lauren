@@ -24,11 +24,11 @@ FIGMA: plataforma de prototipagem.
 -🧩 Estrutura do Projeto
 O projeto é composto por uma estrutura básica de página com as seguintes seções:
 
-Header: Navegação principal.
-Nav: Cabeçalho da página.
-Aside: Menu lateral.
-Section: Tag para sessões extras.
-Footer: Radapé da página.
+.Header: Navegação principal.
+.Nav: Cabeçalho da página.
+.Aside: Menu lateral.
+.Section: Tag para sessões extras.
+.Footer: Radapé da página.
 
 - Página Concluída:
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/763cc7ec-0c8e-4f63-a982-9c0025bc8e8e" />
